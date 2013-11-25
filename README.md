@@ -1,0 +1,4 @@
+Ignite
+======
+
+A minecraft plugin
